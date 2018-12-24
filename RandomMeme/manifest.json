@@ -1,0 +1,11 @@
+{
+  "name": "Random Meme",
+  "version": "0.1",
+  "description": "Plays a random meme when pressed",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {},
+  "manifest_version": 2
+}
